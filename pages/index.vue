@@ -24,15 +24,15 @@
 
   <div class="Container-fluid">
     <div class="row justify-cotent-evenly rounded-3">
-      <div class="col-5">
+      <div class="col-6">
         <div class="cardi">
-          <div class="melanie">
+          <div class="syaika">
             <h2>3 pengunjung</h2>
           </div>
         </div>
       </div>
-      <div class="col-5">
-        <div class="melanie1">
+      <div class="col-6">
+        <div class="syaika1">
           <h2>180 Buku</h2>
         </div>
       </div>
@@ -79,20 +79,20 @@
 .syaika {
   height: 200px;
   box-shadow: 1px 1px 10px;
-  border-radius: 20px;
+  border-radius: 52px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #E4CA6B;
+  background-color: #DBD287;
 }
 
 .syaika1 {
   height: 200px;
   box-shadow: 1px 1px 10px;
-  border-radius: 20px;
+  border-radius: 52px;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #1DDD81
+  background-color: #BDDFC4;
 }
 </style>
